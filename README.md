@@ -57,6 +57,7 @@ Blockchain is not a buzzword for me — it's a tool I’m learning deeply to bui
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ogcovenant)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogcovenant&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ogcovenant)](https://git.io/streak-stats)
 
 ---
 
