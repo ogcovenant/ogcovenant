@@ -1,101 +1,71 @@
-# 👋 Hi, I'm **[Your Name]**
+# 👋 Hey, I'm **Covenant Ogowale**
 
-🚀 **Full-Stack TypeScript Developer | Blockchain & Web3 Learner | Mentor at HiveTX | Builder**  
-I love creating fast, scalable, and user-focused digital experiences. I work across **Next.js, NestJS, Express.js, TypeScript, Prisma, and Web3 technologies**—building everything from e-commerce platforms to mobile fintech apps and backend systems.
+I'm a **Full-Stack Software Developer** who loves shipping real products, teaching devs, and exploring how blockchain can fix broken onboarding and payments systems in Africa.
+
+Right now, I’m building apps, mentoring devs, architecting backends, and diving deeper into Move, Web3, and decentralized identity.
 
 ---
 
-## 🚀 What I Do
+## 🚀 What I'm About
 
-### 💻 Full-Stack Development
-- Build production-ready apps with **Next.js**, **NestJS**, **Express.js**, **React**, and **TypeScript**
-- Craft organized backend systems with **Prisma**, **REST APIs**, and **microservices**
+### 🧩 Full-Stack Engineering (TS All The Way)
+I build clean, scalable systems using:
+- **Next.js**, **React**, **Tailwind**
+- **NestJS**, **Express.js**
+- **Prisma**, **PostgreSQL**
+- **Web3 integrations**
 
-### 🎓 Mentorship & Teaching
-- Mentor at **HiveTX**, guiding new developers in frontend & backend development  
-- Teach HTML/CSS fundamentals and help beginners transition into full-stack development
+My coding style is clean, predictable, and optimized for performance — with a heavy focus on real-world features, not demo code.
 
-### 🔗 Blockchain & Web3
-- Learning **Move programming**
-- Building decentralized systems including:
-  - **Decentralized Identity Wallet**
-  - **Crypto-powered payment apps**
-  - **Blockchain-based certificate verification**
+---
 
-### 📱 Fintech & Web Apps
-- Currently building a mobile app for **Nigeria & Africa** that supports:
-  - Bill payments  
-  - Savings  
-  - Sui, Ethereum & Solana assets  
-  - On-ramp & off-ramp (fiat <> crypto)
+## 🧑‍🏫 Mentorship & Teaching
+
+I'm a **mentor at HiveTX**, helping developers move from fundamentals into full-stack TypeScript.  
+I also teach HTML/CSS bootcamps — restarting lessons, restructuring flow, and guiding brand-new beginners without leaving anyone behind.
+
+Teaching makes me a better developer.  
+Mentoring makes me a better communicator.  
+I enjoy both.
+
+---
+
+## 🔗 Web3 & Move Journey
+
+I’m actively learning **Move**, **Solidity** and **Rust**, plus experimenting with:
+- Smart contracts  
+- On-chain identity  
+- Cross-chain asset flows  
+- Decentralized finance for real markets (Nigeria + Africa)
+
+Blockchain is not a buzzword for me — it's a tool I’m learning deeply to build practical systems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Languages**
-- TypeScript, JavaScript, Move, HTML, CSS
-
-### **Frontend**
-- Next.js, React, Tailwind CSS
-
-### **Backend**
-- NestJS, Express.js, Prisma ORM, PostgreSQL, MongoDB
-
-### **Blockchain**
-- Move  
-- Ethereum / Solana fundamentals  
-- Smart contract integration  
-- Remix IDE
-
-### **Tools**
-- Git, Docker, VS Code, Postman, Zustand, React Query
+**Languages:** TypeScript, JavaScript, Move, HTML, CSS  
+**Frontend:** Next.js, React, Tailwind  
+**Backend:** NestJS, Express.js, Prisma ORM  
+**Databases:** PostgreSQL, MongoDB  
+**Web3:** Move, Remix IDE, Wallet flows  
+**Tools:** Git, Docker, Kubernetes, Zustand, React Query, AWS, Github Actions, Jenkins, Terraform
 
 ---
 
-## 🔥 Current Projects
+## 📈 GitHub Overview
 
-### 🛒 Liquor Store Web Portal  
-A full portal with:
-- Inventory management  
-- Vendor communication  
-- Rewards tracking  
-- Image uploads  
-- Admin dashboards  
-
-Built with **Next.js + Prisma + TypeScript**
-
-### 🔐 Decentralized Identity Wallet  
-For onboarding users across multiple financial touchpoints.
-
-### 📱 African Web3 Fintech Mobile App  
-Multi-chain wallet + bill payments + savings + custodial & self-custodial accounts.
-
-### 📜 Blockchain-Based Certificate Verification  
-Smart contract on Sui + backend consumption using NestJS.
+![GitHub Streak](https://streak-stats.demolab.com/?user=ogcovenant)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogcovenant&layout=compact)
 
 ---
 
-## 🧑‍🏫 Community Work
-- Mentor at **HiveTX**
-- Teaching beginners HTML/CSS fundamentals
-- Helping developers transition into backend roles with NestJS & Express
+## 🤝 Connect With Me
+
+- 🐦 Twitter/X: *[just_covenant](https://x.com/just_covenant_)*  
+- 💬 Open to collaboration, mentorship, and building startup ideas  
+- 🧪 Always learning. Always shipping. Always leveling up.
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
-
----
-
-## 🤝 Let's Connect
-
-- 💼 Portfolio: *Coming soon*  
-- 🐦 Twitter/X: [your handle]  
-- 💬 Open to collaborations, mentorship, and building amazing products!
-
----
-
-✨ _“Keep building. Keep learning. Keep iterating.”_  
+✨ _“I build. I teach. I grow. And I don’t stop.”_
