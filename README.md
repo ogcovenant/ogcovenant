@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://x.com/ogowalec">
-    <img src="https://img.shields.io/badge/-@just__covenant___-000?style=flat-square&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/-@ogowalec__-000?style=flat-square&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://github.com/ogcovenant">
     <img src="https://img.shields.io/badge/-ogcovenant-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
