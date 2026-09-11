@@ -1,7 +1,7 @@
 <h1 align="center">Covenant Ogowale</h1>
 
 <p align="center">
-  <a href="https://x.com/just_covenant_">
+  <a href="https://x.com/ogowalec">
     <img src="https://img.shields.io/badge/-@just__covenant___-000?style=flat-square&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://github.com/ogcovenant">
