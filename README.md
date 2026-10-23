@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://x.com/ogowalec"><img src="https://img.shields.io/badge/@ogowalec-000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://github.com/ogcovenant"><img src="https://img.shields.io/badge/ogcovenant-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://huggingface.co/justcovenant"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+  <a href="https://huggingface.co/ogowalec"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
   <img src="https://img.shields.io/badge/Remote-Worldwide-000?style=flat-square" alt="Remote, worldwide" />
 </p>
 
